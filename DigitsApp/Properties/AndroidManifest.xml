@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="DigitsApp.DigitsApp" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="16" />
+	<application android:label="DigitsApp">
+		<meta-data android:name="io.fabric.ApiKey" 
+               android:value="40567d35ad9ad5a13565a613ba752012eb3922f3" />
+	</application>
+  
+  <!--To read the msg and fill the code directly-->
+  <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+  <!--<uses-permission android:name="android.permission.INTERNET" />-->
+</manifest>

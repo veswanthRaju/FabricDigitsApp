@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">DigitsApp</string>
+    <string name="auth_name">Authentication</string>
+    <string name="api_key">AJFiFHfvcGdPVD1FQsEvYPggH</string>
+</resources>
