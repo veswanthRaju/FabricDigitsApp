@@ -12,8 +12,8 @@ namespace DigitsApp
     [Activity(Label = "DigitsApp", MainLauncher = true, Theme = "@style/MyTheme", Icon = "@drawable/icon")]
     public class MainActivity : AppCompatActivity, IAuthCallback
     {
-        private const string TWITTER_KEY = "AJFiFHfvcGdPVD1FQsEvYPggH";
-        private const string TWITTER_SECRET = "bYxCuSQnfou2Aa7xGagFnXHeGHe8yCXp6MYTZWHGrY0MwG70T9";
+        private const string TWITTER_KEY = "Give Twitter key";
+        private const string TWITTER_SECRET = "Give twitter secret";
         private Button logoutbtn;
 
         protected override void OnCreate(Bundle bundle)

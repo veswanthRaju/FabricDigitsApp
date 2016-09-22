@@ -2,8 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="DigitsApp.DigitsApp" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
 	<uses-sdk android:minSdkVersion="16" />
 	<application android:label="DigitsApp">
+    <!--Register with fabric account it will generate one Api key give that key here-->
+    <!--You can find key in the settings-->organisation-->
 		<meta-data android:name="io.fabric.ApiKey" 
-               android:value="40567d35ad9ad5a13565a613ba752012eb3922f3" />
+               android:value="Give Fabric Api key" />
 	</application>
   
   <!--To read the msg and fill the code directly-->
